@@ -1,0 +1,14 @@
+instance/
+*.sqlite*
+*.db
+*.key
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+runtime/
+dependencias/
+respaldo*/
+*.zip
